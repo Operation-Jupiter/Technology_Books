@@ -4,5 +4,3 @@ This repository contains ebooks for most of the technology stacks. Get as much a
 I have put my time and effort in making this collection, Use it wisely but <b>not for commercial purpose</b>.
 
 Any PR and suggestions are welcomed.
-
-# Add Few new books in Ansible books.
